@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_photo-collections/static/css/main.3a340fb5.css",
+    "main.js": "/react_photo-collections/static/js/main.2ea5a5bf.js",
+    "index.html": "/react_photo-collections/index.html",
+    "main.3a340fb5.css.map": "/react_photo-collections/static/css/main.3a340fb5.css.map",
+    "main.2ea5a5bf.js.map": "/react_photo-collections/static/js/main.2ea5a5bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a340fb5.css",
+    "static/js/main.2ea5a5bf.js"
+  ]
+}
